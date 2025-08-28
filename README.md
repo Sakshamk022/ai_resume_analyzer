@@ -15,11 +15,6 @@ Resumind is an AI-powered resume analyzer designed to provide smart feedback for
           * Below 50 points: Needs Improvement
       * **Category Scores**: Separate scores for Tone & Style, Content, Structure, and Skills.
   * **Application Tracking**: Users can review their resume submissions and check their AI-powered feedback on a dashboard.
-
-## Technologies Used
-
-  * **Framework**: React Router
-  * **Styling**: Tailwind CSS
   * **File Handling**: `react-dropzone` for file uploads and `pdfjs-dist` for PDF processing.
 
 ## Installation & Running the Project
